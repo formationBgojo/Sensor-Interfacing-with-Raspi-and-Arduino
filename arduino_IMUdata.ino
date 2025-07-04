@@ -15,5 +15,5 @@ Serial.print("Acceleration : X="); Serial.print(x);
 Serial.print("Y="); Serial.print(y);
 Serial.print("Z="); Serial.println(z);
 }
-delay(500);
+delay(2000);
 }
